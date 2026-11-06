@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ukpaycalculators-uk.github.io/sitemap.xml

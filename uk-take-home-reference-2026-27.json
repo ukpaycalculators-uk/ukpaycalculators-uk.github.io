@@ -1,0 +1,585 @@
+{
+ "taxYear": "2026-27",
+ "period": {
+  "from": "2026-04-06",
+  "to": "2027-04-05"
+ },
+ "currency": "GBP",
+ "publisher": "UK Pay Calculators (Asquare AI Digital Labs Ltd)",
+ "method": "https://ukpaycalculators-uk.github.io/take-home-pay-method.html",
+ "sources": "https://ukpaycalculators.co.uk/methodology/",
+ "updated": "2026-11-07",
+ "assumptions": "Annual salary paid evenly; tax code 1257L (tapered above £100,000); NI category A; under State Pension age; no pension contribution; Plan 2 figures shown separately.",
+ "rows": [
+  {
+   "salary": 15000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 194.4,
+   "englandWalesNI": {
+    "incomeTax": 486,
+    "takeHome": 14319.6,
+    "monthly": 1193.3
+   },
+   "scotland": {
+    "incomeTax": 461.7,
+    "takeHome": 14343.9,
+    "monthly": 1195.33
+   },
+   "plan2": {
+    "repayment": 0,
+    "takeHomeEnglandWalesNI": 14319.6
+   }
+  },
+  {
+   "salary": 20000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 594.4,
+   "englandWalesNI": {
+    "incomeTax": 1486,
+    "takeHome": 17919.6,
+    "monthly": 1493.3
+   },
+   "scotland": {
+    "incomeTax": 1446.33,
+    "takeHome": 17959.27,
+    "monthly": 1496.61
+   },
+   "plan2": {
+    "repayment": 0,
+    "takeHomeEnglandWalesNI": 17919.6
+   }
+  },
+  {
+   "salary": 24000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 914.4,
+   "englandWalesNI": {
+    "incomeTax": 2286,
+    "takeHome": 20799.6,
+    "monthly": 1733.3
+   },
+   "scotland": {
+    "incomeTax": 2246.33,
+    "takeHome": 20839.27,
+    "monthly": 1736.61
+   },
+   "plan2": {
+    "repayment": 0,
+    "takeHomeEnglandWalesNI": 20799.6
+   }
+  },
+  {
+   "salary": 25000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 994.4,
+   "englandWalesNI": {
+    "incomeTax": 2486,
+    "takeHome": 21519.6,
+    "monthly": 1793.3
+   },
+   "scotland": {
+    "incomeTax": 2446.33,
+    "takeHome": 21559.27,
+    "monthly": 1796.61
+   },
+   "plan2": {
+    "repayment": 0,
+    "takeHomeEnglandWalesNI": 21519.6
+   }
+  },
+  {
+   "salary": 26000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1074.4,
+   "englandWalesNI": {
+    "incomeTax": 2686,
+    "takeHome": 22239.6,
+    "monthly": 1853.3
+   },
+   "scotland": {
+    "incomeTax": 2646.33,
+    "takeHome": 22279.27,
+    "monthly": 1856.61
+   },
+   "plan2": {
+    "repayment": 0,
+    "takeHomeEnglandWalesNI": 22239.6
+   }
+  },
+  {
+   "salary": 27000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1154.4,
+   "englandWalesNI": {
+    "incomeTax": 2886,
+    "takeHome": 22959.6,
+    "monthly": 1913.3
+   },
+   "scotland": {
+    "incomeTax": 2846.33,
+    "takeHome": 22999.27,
+    "monthly": 1916.61
+   },
+   "plan2": {
+    "repayment": 0,
+    "takeHomeEnglandWalesNI": 22959.6
+   }
+  },
+  {
+   "salary": 28000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1234.4,
+   "englandWalesNI": {
+    "incomeTax": 3086,
+    "takeHome": 23679.6,
+    "monthly": 1973.3
+   },
+   "scotland": {
+    "incomeTax": 3046.33,
+    "takeHome": 23719.27,
+    "monthly": 1976.61
+   },
+   "plan2": {
+    "repayment": 0,
+    "takeHomeEnglandWalesNI": 23679.6
+   }
+  },
+  {
+   "salary": 30000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1394.4,
+   "englandWalesNI": {
+    "incomeTax": 3486,
+    "takeHome": 25119.6,
+    "monthly": 2093.3
+   },
+   "scotland": {
+    "incomeTax": 3451.07,
+    "takeHome": 25154.53,
+    "monthly": 2096.21
+   },
+   "plan2": {
+    "repayment": 55.35,
+    "takeHomeEnglandWalesNI": 25064.25
+   }
+  },
+  {
+   "salary": 31000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1474.4,
+   "englandWalesNI": {
+    "incomeTax": 3686,
+    "takeHome": 25839.6,
+    "monthly": 2153.3
+   },
+   "scotland": {
+    "incomeTax": 3661.07,
+    "takeHome": 25864.53,
+    "monthly": 2155.38
+   },
+   "plan2": {
+    "repayment": 145.35,
+    "takeHomeEnglandWalesNI": 25694.25
+   }
+  },
+  {
+   "salary": 32000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1554.4,
+   "englandWalesNI": {
+    "incomeTax": 3886,
+    "takeHome": 26559.6,
+    "monthly": 2213.3
+   },
+   "scotland": {
+    "incomeTax": 3871.07,
+    "takeHome": 26574.53,
+    "monthly": 2214.54
+   },
+   "plan2": {
+    "repayment": 235.35,
+    "takeHomeEnglandWalesNI": 26324.25
+   }
+  },
+  {
+   "salary": 34000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1714.4,
+   "englandWalesNI": {
+    "incomeTax": 4286,
+    "takeHome": 27999.6,
+    "monthly": 2333.3
+   },
+   "scotland": {
+    "incomeTax": 4291.07,
+    "takeHome": 27994.53,
+    "monthly": 2332.88
+   },
+   "plan2": {
+    "repayment": 415.35,
+    "takeHomeEnglandWalesNI": 27584.25
+   }
+  },
+  {
+   "salary": 35000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1794.4,
+   "englandWalesNI": {
+    "incomeTax": 4486,
+    "takeHome": 28719.6,
+    "monthly": 2393.3
+   },
+   "scotland": {
+    "incomeTax": 4501.07,
+    "takeHome": 28704.53,
+    "monthly": 2392.04
+   },
+   "plan2": {
+    "repayment": 505.35,
+    "takeHomeEnglandWalesNI": 28214.25
+   }
+  },
+  {
+   "salary": 37000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 1954.4,
+   "englandWalesNI": {
+    "incomeTax": 4886,
+    "takeHome": 30159.6,
+    "monthly": 2513.3
+   },
+   "scotland": {
+    "incomeTax": 4921.07,
+    "takeHome": 30124.53,
+    "monthly": 2510.38
+   },
+   "plan2": {
+    "repayment": 685.35,
+    "takeHomeEnglandWalesNI": 29474.25
+   }
+  },
+  {
+   "salary": 38000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 2034.4,
+   "englandWalesNI": {
+    "incomeTax": 5086,
+    "takeHome": 30879.6,
+    "monthly": 2573.3
+   },
+   "scotland": {
+    "incomeTax": 5131.07,
+    "takeHome": 30834.53,
+    "monthly": 2569.54
+   },
+   "plan2": {
+    "repayment": 775.35,
+    "takeHomeEnglandWalesNI": 30104.25
+   }
+  },
+  {
+   "salary": 40000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 2194.4,
+   "englandWalesNI": {
+    "incomeTax": 5486,
+    "takeHome": 32319.6,
+    "monthly": 2693.3
+   },
+   "scotland": {
+    "incomeTax": 5551.07,
+    "takeHome": 32254.53,
+    "monthly": 2687.88
+   },
+   "plan2": {
+    "repayment": 955.35,
+    "takeHomeEnglandWalesNI": 31364.25
+   }
+  },
+  {
+   "salary": 42000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 2354.4,
+   "englandWalesNI": {
+    "incomeTax": 5886,
+    "takeHome": 33759.6,
+    "monthly": 2813.3
+   },
+   "scotland": {
+    "incomeTax": 5971.07,
+    "takeHome": 33674.53,
+    "monthly": 2806.21
+   },
+   "plan2": {
+    "repayment": 1135.35,
+    "takeHomeEnglandWalesNI": 32624.25
+   }
+  },
+  {
+   "salary": 45000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 2594.4,
+   "englandWalesNI": {
+    "incomeTax": 6486,
+    "takeHome": 35919.6,
+    "monthly": 2993.3
+   },
+   "scotland": {
+    "incomeTax": 6882.05,
+    "takeHome": 35523.55,
+    "monthly": 2960.3
+   },
+   "plan2": {
+    "repayment": 1405.35,
+    "takeHomeEnglandWalesNI": 34514.25
+   }
+  },
+  {
+   "salary": 48000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 2834.4,
+   "englandWalesNI": {
+    "incomeTax": 7086,
+    "takeHome": 38079.6,
+    "monthly": 3173.3
+   },
+   "scotland": {
+    "incomeTax": 8142.05,
+    "takeHome": 37023.55,
+    "monthly": 3085.3
+   },
+   "plan2": {
+    "repayment": 1675.35,
+    "takeHomeEnglandWalesNI": 36404.25
+   }
+  },
+  {
+   "salary": 50000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 2994.4,
+   "englandWalesNI": {
+    "incomeTax": 7486,
+    "takeHome": 39519.6,
+    "monthly": 3293.3
+   },
+   "scotland": {
+    "incomeTax": 8982.05,
+    "takeHome": 38023.55,
+    "monthly": 3168.63
+   },
+   "plan2": {
+    "repayment": 1855.35,
+    "takeHomeEnglandWalesNI": 37664.25
+   }
+  },
+  {
+   "salary": 55000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 3110.6,
+   "englandWalesNI": {
+    "incomeTax": 9432,
+    "takeHome": 42457.4,
+    "monthly": 3538.12
+   },
+   "scotland": {
+    "incomeTax": 11082.05,
+    "takeHome": 40807.35,
+    "monthly": 3400.61
+   },
+   "plan2": {
+    "repayment": 2305.35,
+    "takeHomeEnglandWalesNI": 40152.05
+   }
+  },
+  {
+   "salary": 60000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 3210.6,
+   "englandWalesNI": {
+    "incomeTax": 11432,
+    "takeHome": 45357.4,
+    "monthly": 3779.78
+   },
+   "scotland": {
+    "incomeTax": 13182.05,
+    "takeHome": 43607.35,
+    "monthly": 3633.95
+   },
+   "plan2": {
+    "repayment": 2755.35,
+    "takeHomeEnglandWalesNI": 42602.05
+   }
+  },
+  {
+   "salary": 65000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 3310.6,
+   "englandWalesNI": {
+    "incomeTax": 13432,
+    "takeHome": 48257.4,
+    "monthly": 4021.45
+   },
+   "scotland": {
+    "incomeTax": 15282.05,
+    "takeHome": 46407.35,
+    "monthly": 3867.28
+   },
+   "plan2": {
+    "repayment": 3205.35,
+    "takeHomeEnglandWalesNI": 45052.05
+   }
+  },
+  {
+   "salary": 70000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 3410.6,
+   "englandWalesNI": {
+    "incomeTax": 15432,
+    "takeHome": 51157.4,
+    "monthly": 4263.12
+   },
+   "scotland": {
+    "incomeTax": 17382.05,
+    "takeHome": 49207.35,
+    "monthly": 4100.61
+   },
+   "plan2": {
+    "repayment": 3655.35,
+    "takeHomeEnglandWalesNI": 47502.05
+   }
+  },
+  {
+   "salary": 75000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 3510.6,
+   "englandWalesNI": {
+    "incomeTax": 17432,
+    "takeHome": 54057.4,
+    "monthly": 4504.78
+   },
+   "scotland": {
+    "incomeTax": 19482.05,
+    "takeHome": 52007.35,
+    "monthly": 4333.95
+   },
+   "plan2": {
+    "repayment": 4105.35,
+    "takeHomeEnglandWalesNI": 49952.05
+   }
+  },
+  {
+   "salary": 80000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 3610.6,
+   "englandWalesNI": {
+    "incomeTax": 19432,
+    "takeHome": 56957.4,
+    "monthly": 4746.45
+   },
+   "scotland": {
+    "incomeTax": 21732.05,
+    "takeHome": 54657.35,
+    "monthly": 4554.78
+   },
+   "plan2": {
+    "repayment": 4555.35,
+    "takeHomeEnglandWalesNI": 52402.05
+   }
+  },
+  {
+   "salary": 90000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 3810.6,
+   "englandWalesNI": {
+    "incomeTax": 23432,
+    "takeHome": 62757.4,
+    "monthly": 5229.78
+   },
+   "scotland": {
+    "incomeTax": 26232.05,
+    "takeHome": 59957.35,
+    "monthly": 4996.45
+   },
+   "plan2": {
+    "repayment": 5455.35,
+    "takeHomeEnglandWalesNI": 57302.05
+   }
+  },
+  {
+   "salary": 100000,
+   "personalAllowance": 12570,
+   "nationalInsurance": 4010.6,
+   "englandWalesNI": {
+    "incomeTax": 27432,
+    "takeHome": 68557.4,
+    "monthly": 5713.12
+   },
+   "scotland": {
+    "incomeTax": 30732.05,
+    "takeHome": 65257.35,
+    "monthly": 5438.11
+   },
+   "plan2": {
+    "repayment": 6355.35,
+    "takeHomeEnglandWalesNI": 62202.05
+   }
+  },
+  {
+   "salary": 110000,
+   "personalAllowance": 7570,
+   "nationalInsurance": 4210.6,
+   "englandWalesNI": {
+    "incomeTax": 33432,
+    "takeHome": 72357.4,
+    "monthly": 6029.78
+   },
+   "scotland": {
+    "incomeTax": 37482.05,
+    "takeHome": 68307.35,
+    "monthly": 5692.28
+   },
+   "plan2": {
+    "repayment": 7255.35,
+    "takeHomeEnglandWalesNI": 65102.05
+   }
+  },
+  {
+   "salary": 125140,
+   "personalAllowance": 0,
+   "nationalInsurance": 4513.4,
+   "englandWalesNI": {
+    "incomeTax": 42516,
+    "takeHome": 78110.6,
+    "monthly": 6509.22
+   },
+   "scotland": {
+    "incomeTax": 47701.55,
+    "takeHome": 72925.05,
+    "monthly": 6077.09
+   },
+   "plan2": {
+    "repayment": 8617.95,
+    "takeHomeEnglandWalesNI": 69492.65
+   }
+  },
+  {
+   "salary": 150000,
+   "personalAllowance": 0,
+   "nationalInsurance": 5010.6,
+   "englandWalesNI": {
+    "incomeTax": 53703,
+    "takeHome": 91286.4,
+    "monthly": 7607.2
+   },
+   "scotland": {
+    "incomeTax": 59634.35,
+    "takeHome": 85355.05,
+    "monthly": 7112.92
+   },
+   "plan2": {
+    "repayment": 10855.35,
+    "takeHomeEnglandWalesNI": 80431.05
+   }
+  }
+ ]
+}
