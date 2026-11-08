@@ -61,3 +61,4 @@ footer p { margin: 0 0 8px; }
 table.bands tbody { border-top: 2px solid var(--line); }
 table.bands th[scope="rowgroup"] { text-align: left; vertical-align: top; font-weight: 600; }
 table.bands td.pt { text-align: left; }
+table.bands thead th:nth-child(2) { text-align: left; }
