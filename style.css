@@ -58,3 +58,6 @@ ol.steps > li { margin-bottom: 0.4em; }
 code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 0.92em; background: var(--accent-soft); padding: 1px 5px; border-radius: 4px; }
 footer { border-top: 1px solid var(--line); padding: 24px 0 40px; color: var(--muted); font-size: 0.92rem; }
 footer p { margin: 0 0 8px; }
+table.bands tbody { border-top: 2px solid var(--line); }
+table.bands th[scope="rowgroup"] { text-align: left; vertical-align: top; font-weight: 600; }
+table.bands td.pt { text-align: left; }
